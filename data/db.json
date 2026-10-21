@@ -1,0 +1,212 @@
+{
+  "users": {
+    "usr_neo": {
+      "id": "usr_neo",
+      "username": "Neo_Hacker",
+      "email": "neo@matrix.cyber",
+      "passwordHash": "cadaca111f2b86c92d388d722bb358acbef352b079083748080272d7113d9822",
+      "salt": "cyber_salt_2026",
+      "avatarSeed": "neo_matrix",
+      "createdAt": "2026-10-01T07:53:33.614Z",
+      "badges": [
+        "first_blood",
+        "syntax_sentinel",
+        "logic_master",
+        "loop_conqueror",
+        "algorithm_ace",
+        "root_terminator",
+        "speed_demon"
+      ],
+      "stats": {
+        "score": 6420,
+        "coins": 790,
+        "xp": 6420,
+        "lives": 3,
+        "maxLives": 3,
+        "streak": 12,
+        "unlockedLevel": 5,
+        "solvedChallengeIds": [
+          "b1_syntax_declaration",
+          "b2_case_sensitivity",
+          "b3_missing_return",
+          "b4_template_literal_syntax",
+          "b5_const_reassignment",
+          "b6_unclosed_object_bracket",
+          "e1_assignment_in_conditional",
+          "e2_off_by_one_boundary",
+          "e3_logical_operator_inverted",
+          "e4_ternary_logic_inversion",
+          "e5_switch_missing_break",
+          "e6_falsy_null_check",
+          "i1_off_by_one_array_loop",
+          "i2_infinite_while_loop",
+          "i3_variable_shadowing_reset",
+          "i4_pass_by_reference_mutation",
+          "i5_string_split_join_delimiters",
+          "i6_function_scope_hoisting_misuse",
+          "a1_recursion_missing_base_case",
+          "a2_shallow_copy_nested_mutation",
+          "a3_binary_search_midpoint_integer",
+          "a4_reduce_missing_initial_value"
+        ],
+        "hintsUsedCount": 4,
+        "totalSubmissions": 35,
+        "perfectFixesCount": 18,
+        "lastPlayedDate": "2026-10-15T07:53:33.615Z",
+        "inventory": {
+          "shield": 1,
+          "overclock": 0,
+          "xray": 0
+        }
+      }
+    },
+    "usr_ada": {
+      "id": "usr_ada",
+      "username": "Ada_Lovelace",
+      "email": "ada@computing.cyber",
+      "passwordHash": "f8c162953ce3525b0b982edd9e9ce3d69896953f55818606f0d564815bb9a484",
+      "salt": "cyber_salt_2026",
+      "avatarSeed": "ada_lovelace",
+      "createdAt": "2026-10-05T07:53:33.615Z",
+      "badges": [
+        "first_blood",
+        "syntax_sentinel",
+        "logic_master",
+        "flawless_fix",
+        "streak_operative"
+      ],
+      "stats": {
+        "score": 4180,
+        "coins": 520,
+        "xp": 4180,
+        "lives": 3,
+        "maxLives": 3,
+        "streak": 8,
+        "unlockedLevel": 4,
+        "solvedChallengeIds": [
+          "b1_syntax_declaration",
+          "b2_case_sensitivity",
+          "b3_missing_return",
+          "b4_template_literal_syntax",
+          "b5_const_reassignment",
+          "b6_unclosed_object_bracket",
+          "e1_assignment_in_conditional",
+          "e2_off_by_one_boundary",
+          "e3_logical_operator_inverted",
+          "e4_ternary_logic_inversion",
+          "e5_switch_missing_break",
+          "e6_falsy_null_check",
+          "i1_off_by_one_array_loop",
+          "i2_infinite_while_loop",
+          "i3_variable_shadowing_reset",
+          "i4_pass_by_reference_mutation"
+        ],
+        "hintsUsedCount": 2,
+        "totalSubmissions": 22,
+        "perfectFixesCount": 12,
+        "lastPlayedDate": "2026-10-15T07:53:33.615Z"
+      }
+    },
+    "usr_cipher": {
+      "id": "usr_cipher",
+      "username": "Cipher_Queen",
+      "email": "cipher@defense.cyber",
+      "passwordHash": "7a949b420ad9eb9072a159cba96fb096ee8559691fc38f35e1fdd15e06c74a07",
+      "salt": "cyber_salt_2026",
+      "avatarSeed": "cipher_queen",
+      "createdAt": "2026-10-08T07:53:33.615Z",
+      "badges": [
+        "first_blood",
+        "syntax_sentinel",
+        "flawless_fix"
+      ],
+      "stats": {
+        "score": 2850,
+        "coins": 340,
+        "xp": 2850,
+        "lives": 2,
+        "maxLives": 3,
+        "streak": 5,
+        "unlockedLevel": 3,
+        "solvedChallengeIds": [
+          "b1_syntax_declaration",
+          "b2_case_sensitivity",
+          "b3_missing_return",
+          "b4_template_literal_syntax",
+          "b5_const_reassignment",
+          "b6_unclosed_object_bracket",
+          "e1_assignment_in_conditional",
+          "e2_off_by_one_boundary",
+          "e3_logical_operator_inverted",
+          "e4_ternary_logic_inversion"
+        ],
+        "hintsUsedCount": 3,
+        "totalSubmissions": 18,
+        "perfectFixesCount": 8,
+        "lastPlayedDate": "2026-10-15T07:53:33.615Z"
+      }
+    },
+    "usr_glitch": {
+      "id": "usr_glitch",
+      "username": "Glitch_Hunter",
+      "email": "glitch@sentinel.cyber",
+      "passwordHash": "c7a6472fbda4b1d5161e1fdc8599bfc4158ce47879d5cb2697391289338ee0c9",
+      "salt": "cyber_salt_2026",
+      "avatarSeed": "glitch_hunter",
+      "createdAt": "2026-10-12T07:53:33.615Z",
+      "badges": [
+        "first_blood"
+      ],
+      "stats": {
+        "score": 1450,
+        "coins": 180,
+        "xp": 1450,
+        "lives": 3,
+        "maxLives": 3,
+        "streak": 2,
+        "unlockedLevel": 2,
+        "solvedChallengeIds": [
+          "b1_syntax_declaration",
+          "b2_case_sensitivity",
+          "b3_missing_return",
+          "b4_template_literal_syntax",
+          "b5_const_reassignment",
+          "b6_unclosed_object_bracket"
+        ],
+        "hintsUsedCount": 5,
+        "totalSubmissions": 12,
+        "perfectFixesCount": 3,
+        "lastPlayedDate": "2026-10-15T07:53:33.615Z"
+      }
+    },
+    "usr_4ded6ae8": {
+      "id": "usr_4ded6ae8",
+      "username": "CipherTest",
+      "email": "ciphertest@netrunner.cyber",
+      "passwordHash": "480e41fa88fdf1231b9a16e1282ded2684bc54734404da650a5b305da66910af",
+      "salt": "f3ce5d8677e0bfa05fb56409f493c7eb",
+      "avatarSeed": "ciphertest",
+      "createdAt": "2026-10-15T07:53:45.255Z",
+      "badges": [],
+      "stats": {
+        "score": 0,
+        "coins": 100,
+        "xp": 0,
+        "lives": 3,
+        "maxLives": 3,
+        "streak": 1,
+        "unlockedLevel": 1,
+        "solvedChallengeIds": [],
+        "hintsUsedCount": 0,
+        "totalSubmissions": 0,
+        "perfectFixesCount": 0,
+        "lastPlayedDate": "2026-10-15T07:53:45.255Z"
+      }
+    }
+  },
+  "sessions": {
+    "tok_97bd9f911c8a46658f8468bbe1aef233d363315e72517f6e": "usr_4ded6ae8",
+    "tok_33ec633eb969fea25821821b705cfd62c62a5184c4985047": "usr_neo",
+    "tok_82dc0bc2ccfde5bfead9dc4094a5853a95d722166fc82c6b": "usr_neo"
+  }
+}

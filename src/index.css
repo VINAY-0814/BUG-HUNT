@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    
+    /* Bug Hunt! Safari Palette */
+    --color-jungle-dark: #04140d;
+    --color-jungle-surface: #082216;
+    --color-jungle-card: #0d2c1e;
+    --color-jungle-border: #164632;
+    --color-bug-lime: #84cc16;
+    --color-bug-lime-light: #bef264;
+    --color-hunt-orange: #ea580c;
+    --color-hunt-orange-light: #fb923c;
+    --color-radar-teal: #10b981;
+    --color-radar-cyan: #06b6d4;
+    --color-specimen-gold: #f59e0b;
+  }
+  
+  body {
+    font-family: var(--font-sans);
+    background-color: #04140d;
+    color: #f1f5f9;
+  }
+
+  code, pre, .font-mono {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Custom Safari Scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(4, 20, 13, 0.8);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1b4e38;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #22c55e;
+}

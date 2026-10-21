@@ -1,0 +1,9 @@
+{
+  "rawUri": "mongodb+srv://bughunt:<db_password>@cluster0.rebyb4m.mongodb.net/?compressors=zlib",
+  "normalizedUri": "mongodb+srv://bughunt:<db_password>@cluster0.rebyb4m.mongodb.net/bughunt?retryWrites=true&w=majority&compressors=zlib",
+  "altUriNoSpaces": "mongodb+srv://bughunt:bughunt%40123@cluster0.rebyb4m.mongodb.net/bughunt?retryWrites=true&w=majority&compressors=zlib",
+  "databaseName": "bughunt",
+  "atlasCluster": "cluster0.rebyb4m.mongodb.net",
+  "lastError": "MongoDB Atlas Notice: Ready to connect! Replace '<db_password>' with your MongoDB Atlas database user password in Architecture Settings.",
+  "configuredAt": "2026-10-21T14:42:00.000Z"
+}
